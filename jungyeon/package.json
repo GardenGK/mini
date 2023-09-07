@@ -1,0 +1,21 @@
+{
+  "name": "mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mini.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node": "^20.6.0",
+    "typeorm": "^0.3.17"
+  }
+}
